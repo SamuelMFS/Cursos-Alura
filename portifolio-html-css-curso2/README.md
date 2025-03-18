@@ -2,7 +2,7 @@
 
 Primeira versao do projeto desenvolvido ao longo do curso de HTML e CSS da alura.
 
-![Imagem do Projeto](portifolio-html-css-curso2/public/portifolio-html-css-curso2.png "Joana Santos")
+![Imagem do Projeto](public/portifolio-html-css-curso2.png "Joana Santos")
 
 ## Como Configurar o Projeto
 
