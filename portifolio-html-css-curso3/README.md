@@ -1,4 +1,4 @@
-# Portifolio Joana Santos v1
+# Portifolio Joana Santos v2
 
 Segunda versao do projeto desenvolvido ao longo do curso de HTML e CSS da Alura.
 
