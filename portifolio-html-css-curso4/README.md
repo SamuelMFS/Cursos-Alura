@@ -2,7 +2,7 @@
 
 Terceira versao do projeto desenvolvido ao longo do curso de HTML e CSS da Alura.
 
-O projeto pode ser visto em [](https://projeto-self-eight.vercel.app/).
+O projeto pode ser visto em [https://projeto-self-eight.vercel.app/](https://projeto-self-eight.vercel.app/).
 
 ![Imagem da home page do Projeto](public/portifolio-html-css-curso4-home.png "Home Joana Santos")
 
